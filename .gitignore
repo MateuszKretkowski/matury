@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Excel lock files and macOS/Windows system files
+~$*
+.DS_Store
+Thumbs.db
